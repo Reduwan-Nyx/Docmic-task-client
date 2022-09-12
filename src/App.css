@@ -10,6 +10,27 @@
   16px;
 }
 
+.service-text{
+  font-family: 'Inter', sans-serif;
+  font-weight: 500;
+  font-size: 32px;
+  line-height: 38.73px;
+
+}
+
+.service-image{
+  position: relative;
+  left: 140px;
+}
+
+.service-div{
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 14.52px;
+  color: rgba(30, 30, 30, 1);
+}
+
 .state{
   font-family: 'Inter', sans-serif;
   font-size: 24px;
