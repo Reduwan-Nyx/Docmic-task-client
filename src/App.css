@@ -27,7 +27,16 @@
   left: 100px;
 }
 
-
+.footer-des{
+  width: 237px;
+  height: 63px;
+  font-family: 'Inter', sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  letter-spacing: -0.5%;
+  text-align: start;
+  color: rgba(87, 87, 87, 1);
+}
 
 .info-uppertext{
   font-family: 'Inter', sans-serif;
