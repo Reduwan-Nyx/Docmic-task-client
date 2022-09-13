@@ -21,7 +21,7 @@ const Testimonial = () => {
                 </div>
             </div>
         </section>
-    <div class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2 text-neutral ">
+    <div class="absolute flex justify-between transform -translate-y-1/2 left-10 right-10 top-1/2 text-neutral ">
       <a href="#slide4" class="btn btn-circle text-primary">❮</a> 
       <a href="#slide2" class="btn btn-circle text-primary">❯</a>
     </div>

@@ -35,6 +35,7 @@ const Header = () => {
     </Link>
     <nav className="header md:ml-auto md:mr-auto flex flex-wrap items-center text-base justify-center ">
       <Link to="/home" className="mr-5 text-primary">Home</Link>
+      <Link to="/about" className="mr-5">About</Link>
       <Link to="/departments" className="mr-5">Departments</Link>
       <Link to="/story" className="mr-5">Pages</Link>
    

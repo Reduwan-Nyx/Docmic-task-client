@@ -2,7 +2,7 @@ import React from 'react';
 
 const Footer = () => {
     return (
-        <footer class="footer p-10  text-base-content">
+        <footer class="footer p-10  text-base-content ">
             <div className=''>
                 <h1 className='text-primary text-xl font-bold'>Doc <span className='text-accent'>Mic</span></h1>
                 <h2 className='footer-des '>simply dummy text of the printing and typesetting industry. Lorem Ipsum has bee</h2>
@@ -22,9 +22,9 @@ const Footer = () => {
   </div>
 </footer>
             </div>
-  <div>
+  <div className='font-[600]'>
     <span class="font-bold text-accent">Quick Links</span> 
-    <a class="link link-hover">About Us</a> 
+    <a class="link link-hover ">About Us</a> 
     <a class="link link-hover">Our Pricing</a> 
     <a class="link link-hover">Our Gallery</a> 
     <a class="link link-hover">Appointment</a>

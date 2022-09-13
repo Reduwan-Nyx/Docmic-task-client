@@ -3,11 +3,12 @@ import React from 'react';
 const Service = ({service}) => {
     
     return (
-        <div class="card  ">
+        <div class="card px-10">
             
-        <div class="card-body">
+        <div class="card-body ">
         <figure className=" service-image">
         <img width={18} src={service.img} alt="Shoes" className="" />
+    
       </figure>
           <h2 class="text-start service-div">{service.name}</h2>
           <p className='text-start  service-div'>{service.description}</p>
